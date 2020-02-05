@@ -16,6 +16,7 @@
 		1731101A23EB18A400F614BB /* GroceriesAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1731101923EB18A400F614BB /* GroceriesAppTests.swift */; };
 		1731102523EB18A400F614BB /* GroceriesAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1731102423EB18A400F614BB /* GroceriesAppUITests.swift */; };
 		1731103323EB1CAB00F614BB /* shoppinglist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1731103223EB1CAB00F614BB /* shoppinglist.swift */; };
+		C9B5BD0423EB269600EA3C38 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B5BD0323EB269600EA3C38 /* Alerts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		1731102423EB18A400F614BB /* GroceriesAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceriesAppUITests.swift; sourceTree = "<group>"; };
 		1731102623EB18A400F614BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1731103223EB1CAB00F614BB /* shoppinglist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shoppinglist.swift; sourceTree = "<group>"; };
+		C9B5BD0323EB269600EA3C38 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		17310FF623EB18A300F614BB = {
 			isa = PBXGroup;
 			children = (
+				C9B5BD0323EB269600EA3C38 /* Alerts.swift */,
 				1731103223EB1CAB00F614BB /* shoppinglist.swift */,
 				1731100123EB18A300F614BB /* GroceriesApp */,
 				1731101823EB18A400F614BB /* GroceriesAppTests */,
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1731100323EB18A300F614BB /* AppDelegate.swift in Sources */,
+				C9B5BD0423EB269600EA3C38 /* Alerts.swift in Sources */,
 				1731103323EB1CAB00F614BB /* shoppinglist.swift in Sources */,
 				1731100523EB18A300F614BB /* SceneDelegate.swift in Sources */,
 				1731100723EB18A300F614BB /* ContentView.swift in Sources */,
